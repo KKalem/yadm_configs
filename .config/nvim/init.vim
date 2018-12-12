@@ -1,0 +1,1 @@
+/home/ozer/Dropbox/ivir/dotfiles/init.vim
